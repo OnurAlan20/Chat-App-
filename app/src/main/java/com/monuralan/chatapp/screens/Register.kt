@@ -24,7 +24,6 @@ import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import com.monuralan.chatapp.navigation.Screens
 import com.monuralan.chatapp.network.DataModelRegister
-import com.monuralan.chatapp.network.RegisterResponse
 import com.monuralan.chatapp.network.RetrofitAPI
 import retrofit2.Call
 import retrofit2.Callback
